@@ -1,0 +1,19 @@
+.carousel {
+  overflow: hidden;
+  width: 300px;
+  margin: auto;
+}
+
+.inner-carousel {
+  display: flex;
+}
+
+.item {
+  min-width: 300px;
+  padding: 10px;
+}
+
+.item img {
+  width: 100%;
+  border-radius: 10px;
+}
